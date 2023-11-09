@@ -18,12 +18,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/)](https://www.linkedin.com/mwlite/in-)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javohir7066@gmail.com)
 
-(https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/limonbot)](https://t.me/Javohr7)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/limonbot)](https://t.me/Javohr7)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=javohir&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=javohir&margin-w=5&theme=radical" alt="info" />
 
-
+------------
+GitMemory: https://gitmemory.com/asakew
 ------------
