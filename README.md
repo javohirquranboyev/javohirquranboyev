@@ -1,3 +1,5 @@
+![textanim-krr2g](https://github.com/javohirquranboyev/Bagbang/assets/149518554/dc2596b7-1f8a-4330-8639-72f2069907f4)
+
 <!-- Managing your profile README -->
 <!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
 
