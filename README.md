@@ -26,5 +26,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=javohir&margin-w=5&theme=radical" alt="info" />
 
 ------------
-GitMemory: https://gitmemory.com/asakew
+GitMemory: https://gitmemory.com/javohirquranboyev
 ------------
